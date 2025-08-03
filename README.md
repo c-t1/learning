@@ -1,2 +1,2 @@
 # learning
-This repository is for learning GitHub
+This repository is for learning GitHub.
